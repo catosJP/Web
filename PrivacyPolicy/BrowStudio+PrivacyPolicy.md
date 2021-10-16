@@ -121,5 +121,3 @@ Google広告に関するポリシー: https://policies.google.com/technologies/a
  
 
 メールアドレス：support@catos.jp
-
-fileencoding=utf-8
